@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RedisClearProject.iml" filepath="$PROJECT_DIR$/.idea/RedisClearProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
+    </modules>
+  </component>
+</project>
